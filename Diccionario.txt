@@ -1,0 +1,58 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato5>]
+[<dato6>]
+[<dato7>]
+[<dato8>]
+[<dato9>]
+[<dato10>]
+[<dato11>]
+[<dato12>]
+[<dato13>]
+[<dato14>]
+[<dato15>]
+[<dato16>]
+[<dato17>]
+[<dato18>]
+[<dato19>]
+[<dato20>]
+[<dato21>]
+[<dato22>]
+[<dato23>]
+[<dato24>]
+[<dato25>];
+
+
+<dato0>=abrir word;
+<dato1>=cerrar word;
+<dato2>=abrir excel;
+<dato3>=cerrar excel;
+<dato4>=abrir navegador;
+<dato5>=cerrar navegador;
+<dato6>=escribir universidad central del ecuador;
+<dato7>=escribir youtube;
+<dato8>=entrar;
+<dato9>=cero;
+<dato10>=uno;
+<dato11>=dos;
+<dato12>=tres;
+<dato13>=cuatro;
+<dato14>=cinco;
+<dato15>=seis;
+<dato16>=siete;
+<dato17>=ocho;
+<dato18>=nueve;
+<dato19>=escribir ecuador;
+<dato20>=escribir clima en quito;
+<dato21>=borrar;
+<dato22>=escribir facebook;
+<dato23>=escribir elecciones 2018;
+<dato24>=escribir deep learning;
+<dato25>=escribir google speech;
